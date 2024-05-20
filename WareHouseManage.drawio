@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T14:39:27.453Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="JGF05ZRP8txAjwT_Kf1R" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-20T11:58:30.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ctYe6E5DsBubsIiBcHl-" version="24.4.0" type="github">
   <diagram name="Page-1" id="QiN4ASyIB1SygoHhxnxH">
-    <mxGraphModel dx="6733" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="6469" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5ntMC82svjXdXfbn46jD-15" value="Kiểm tra hàng" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1344.5" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="1604.5" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5ntMC82svjXdXfbn46jD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5ntMC82svjXdXfbn46jD-17" target="5ntMC82svjXdXfbn46jD-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5ntMC82svjXdXfbn46jD-17" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1349.5" y="205" width="110" height="50" as="geometry" />
+          <mxGeometry x="1608.25" y="205" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dAOS7XKVCBN04hqBV6kS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="5ntMC82svjXdXfbn46jD-19" target="oMmBlbOTVphfUnhikCZZ-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -3412,7 +3412,7 @@
         <mxCell id="ll36KWPYTY3ecE8yBOYC-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-4540" y="847.5" width="1240" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="trJ4JK-6edR3DnPVaYxD-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Biểu đồ trình tự thanh toán&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="trJ4JK-6edR3DnPVaYxD-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Biểu đồ trình tự thanh toán&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2288.26" y="2116.5" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
