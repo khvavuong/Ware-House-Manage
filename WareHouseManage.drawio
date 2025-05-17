@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2025-05-16T20:58:10.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 OPR/118.0.0.0" etag="fux9BrK7hdzJY5T_gt7h" version="24.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2025-05-16T20:59:23.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 OPR/118.0.0.0" etag="178CPURKRi0QlQPtn7lJ" version="24.2.1" type="github" pages="2">
   <diagram name="Page-1" id="QiN4ASyIB1SygoHhxnxH">
     <mxGraphModel dx="7896" dy="1415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -3448,8 +3448,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="_nWnSIlV9UdjcrHJyyOK" name="Page-2">
-    <mxGraphModel dx="6230" dy="1617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="_nWnSIlV9UdjcrHJyyOK" name="uc">
+    <mxGraphModel dx="4065" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3503,7 +3503,7 @@
             <mxPoint x="-1411.5" y="1036.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yL9RPXeDYCUvl9YaRWPp-15" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;UC phân rã chức năng Kiểm kê hàng hóa&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yL9RPXeDYCUvl9YaRWPp-15" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;UC chức năng Kiểm kê hàng hóa&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1753.5" y="980" width="410" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yL9RPXeDYCUvl9YaRWPp-16" value="Cập nhật dữ liệu&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -3533,7 +3533,7 @@
             <mxPoint x="-1470" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gNXy904tENTE1l6Iu_LM-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Use case phân rã chức năng xuất kho&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="gNXy904tENTE1l6Iu_LM-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Use case chức năng xuất kho&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-444" y="1052" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gNXy904tENTE1l6Iu_LM-2" value="Kế toán kho" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
@@ -3687,7 +3687,7 @@
             <mxPoint x="-523.5" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TT0lOrm31ooH5QaB3kPU-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Use case phân rã chức năng nhập kho&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="TT0lOrm31ooH5QaB3kPU-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Use case chức năng nhập kho&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1190" y="220" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TT0lOrm31ooH5QaB3kPU-17" value="Ghi thẻ kho" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
