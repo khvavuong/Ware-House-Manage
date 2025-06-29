@@ -874,7 +874,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ym168RmoMdldGewynsLo-252" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Biểu đồ trình tự Kiểm kê hàng hóa&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1117.5" y="140" width="410" height="20" as="geometry" />
+          <mxGeometry x="1036" y="140" width="410" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ym168RmoMdldGewynsLo-253" value="3. Lấy Yêu cầu kiểm kê" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
